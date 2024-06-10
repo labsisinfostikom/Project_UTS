@@ -1,0 +1,35 @@
+.Contact {
+    padding: 50px 20px;
+    text-align: center;
+  }
+  
+  .Contact-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .Contact-card {
+    background-color: #fff;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 0 20px;
+    max-width: 300px;
+    text-align: center;
+  }
+  
+  .Contact-card i {
+    color: #007bff;
+  }
+  
+  .Contact-card h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .Contact-card p {
+    font-size: 1em;
+    color: #666;
+  }
+  
